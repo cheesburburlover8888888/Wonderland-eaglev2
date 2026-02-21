@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_wonderland:block/endless_house_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_wonderland:block/endless_house_portal_ns"
+    }
+  }
+}

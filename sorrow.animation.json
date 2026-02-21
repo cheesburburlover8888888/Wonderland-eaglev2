@@ -1,0 +1,79 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"sorrow.idle1": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"Body": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"sorrow.idle2": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"Head": {
+					"rotation": {
+						"vector": [-9.85108, -1.72794, -9.85108]
+					}
+				},
+				"Body": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"Right Arm": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"Left Arm": {
+					"rotation": {
+						"vector": [-87.5, 0, 0]
+					}
+				},
+				"Right Leg": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"Left Leg": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				}
+			}
+		},
+		"sorrow.idle3": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"Head": {
+					"rotation": {
+						"vector": [52.5, 0, 0]
+					}
+				},
+				"Body": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"Right Arm": {
+					"rotation": {
+						"vector": [-100.35555, -34.89321, -14.70516]
+					}
+				},
+				"Left Arm": {
+					"rotation": {
+						"vector": [-104.13039, 34.65749, -5.22206]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
